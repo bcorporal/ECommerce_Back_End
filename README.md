@@ -2,8 +2,10 @@
 
   
 ## Description
-Backend Project for Ecommerce website. 
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. 
+
+This is a Backend Project for Ecommerce website where I had to configure routes to get a functioning app. 
+
 
 
   
@@ -24,15 +26,18 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 
 ## Instructions
+
+
  Watch the walkthru video https://drive.google.com/file/d/1o5GjSx_-DrU9wzecJMEcU_vnt80SKE5_/view
 
- Repo link 
+ Repo link  https://bcorporal.github.io/ECommerce_Back_End/
 
   
 
 
-
 ## Language(s)
+
+
   Javascript, MySQL2, Sequelize, Express.
 
 
