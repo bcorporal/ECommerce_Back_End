@@ -27,8 +27,9 @@ This is a Backend Project for Ecommerce website where I had to configure routes 
 
 ## Instructions
 
+Watch the walkthru demonstrating how to create the schema from the MySQL shell, seeding the database from the command line and how to starting the application’s server. https://drive.google.com/file/d/1H-vPr7oBEdcLf8zjrRWQSMCBilkJdKL6/view
 
- Watch the walkthru video https://drive.google.com/file/d/1o5GjSx_-DrU9wzecJMEcU_vnt80SKE5_/view
+Watch the walkthru video using Insomnia demonstrating GET routes for all categories, all products, and all tags, GET routes for a single category, a single product, and a single tag also POST, PUT, and DELETE routes for categories, products, and tags tested in Insomnia https://drive.google.com/file/d/1o5GjSx_-DrU9wzecJMEcU_vnt80SKE5_/view
 
  Repo link  https://bcorporal.github.io/ECommerce_Back_End/
 
